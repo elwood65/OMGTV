@@ -865,84 +865,123 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.i
 
 
 # Canali aggiunti da SkyStreaming
-#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Ternana vs Pescara" tvg-name="Ternana vs Pescara" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Ternana vs Pescara (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Ternana vs Pescara" tvg-name="Ternana vs Pescara" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Ternana vs Pescara (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Ternana vs Pescara" tvg-name="Ternana vs Pescara" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Ternana vs Pescara (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 #EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
+#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Ternana vs Pescara" tvg-name="Ternana vs Pescara" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Ternana vs Pescara (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
 #EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
@@ -950,50 +989,11 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/s
 #EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
 #EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 
 # Canali aggiunti da ThisNotBusiness
@@ -1514,10 +1514,6 @@ https://xuione.sportstreaming.net/SportStreaming/SportStreaming/63.m3u8&h_user-a
 
 
 
-#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b6f4b47a.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
-https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
-#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
-https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683832581d9cf.png" tvg-name="Calcio",Ternana vs Pescara (SZ)
 https://hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/6683b5df0dd12.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
@@ -1532,6 +1528,10 @@ https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 https://hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/6833150a6f561.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES2 (SZ)
 https://hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
+#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b6f4b47a.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
+#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 tvg-id="German Womens Regionalliga - Viktoria Berlin vs Fortuna Dresden" tvg-name="14:00 German Womens Regionalliga : Viktoria Berlin vs Fortuna Dresden - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Viktoria%20Berlin_vs_Fortuna%20Dresden.png" group-title="Calcio", Sky Sport Bundesliga 1
 https://daddylive.dad/embed/stream-558.php
 
@@ -1790,7 +1790,7 @@ https://daddylive.dad/embed/stream-150.php
 #EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Day 8 - Roland-Garros Tennis Men's and Women's Singles | Day 8" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Day 8 - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 https://daddylive.dad/embed/stream-232.php
 
-#EXTINF:-1 tvg-id="Major League Pickleball - Dallas Flash vs. Utah Black Diamonds" tvg-name="18:00 Major League Pickleball : Dallas Flash vs. Utah Black Diamonds - 01/06/25" tvg-logo="https://cdn.inspireuplift.com/uploads/images/seller_products/1699010604_Untitled-1copy-03.png" group-title="Tennis", MSG USA
+#EXTINF:-1 tvg-id="Major League Pickleball - Dallas Flash vs. Utah Black Diamonds" tvg-name="18:00 Major League Pickleball : Dallas Flash vs. Utah Black Diamonds - 01/06/25" tvg-logo="https://www.majorleaguepickleball.co/wp-content/uploads/PRIMARY-Dallas-Flash-Outline-Logo-FFcopy-1920x1920.png" group-title="Tennis", MSG USA
 https://daddylive.dad/embed/stream-765.php
 
 #EXTINF:-1 tvg-id="Major League Pickleball - Phoenix Flames vs. SoCal Hard Eights" tvg-name="20:00 Major League Pickleball : Phoenix Flames vs. SoCal Hard Eights - 01/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221231/original/pngtree-trending-mighty-phoenix-bird-logo-with-fiery-red-flame-burning-passion-png-image_8837967.png" group-title="Tennis", MSG USA
@@ -2189,13 +2189,13 @@ https://daddylive.dad/embed/stream-2.php
 #EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Amazonas" tvg-name="00:00 Brazil - Serie B : Chapecoense vs Amazonas - 02/06/25" tvg-logo="https://logodetimes.com/times/chapecoense/logo-chapecoense-4096.png" group-title="Calcio", ESPN Brazil
 https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Griekspoor T." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Griekspoor T. - 02/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Griekspoor T." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Griekspoor T. - 02/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Griekspoor T." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Griekspoor T. - 02/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Griekspoor T." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Griekspoor T. - 02/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Griekspoor T." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Griekspoor T. - 02/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Griekspoor T." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Griekspoor T. - 02/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
 https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Norrie C. vs Djokovic N." tvg-name="14:00 ATP - ROLAND GARROS : Norrie C. vs Djokovic N. - 02/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/06/07/13/24/norrie-head-2022-may.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
@@ -2216,13 +2216,13 @@ https://daddylive.dad/embed/stream-576.php
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Draper J." tvg-name="16:00 ATP - ROLAND GARROS : Bublik A. vs Draper J. - 02/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bublik%20A._vs_Draper%20J..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rublev A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rublev A. - 02/06/25" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7e33fa85360881.5d794e3ca4515.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rublev A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rublev A. - 02/06/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rublev A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rublev A. - 02/06/25" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7e33fa85360881.5d794e3ca4515.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 01
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rublev A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rublev A. - 02/06/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 01
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rublev A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rublev A. - 02/06/25" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7e33fa85360881.5d794e3ca4515.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rublev A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rublev A. - 02/06/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Alexandrova E. vs Gauff C." tvg-name="11:00 WTA - ROLAND GARROS : Alexandrova E. vs Gauff C. - 02/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Alexandrova%20E._vs_Gauff%20C..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
