@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/EIN3.DE.D-4cd10b0d.png?t=1722162156" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381543_germany-x-france.png" group-title="Calcio", TF1 France
 https://daddylive.dad/embed/stream-2.php
 
-#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/EIN3.DE.D-4cd10b0d.png?t=1722162156" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381543_germany-x-france.png" group-title="Calcio", SuperSport Premier League
 https://daddylive.dad/embed/stream-414.php
 
-#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Portugal_vs_Spain.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381360_portugal-x-spain.png" group-title="Calcio", SuperSport Premier League
 https://daddylive.dad/embed/stream-414.php
 
-#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Portugal_vs_Spain.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381360_portugal-x-spain.png" group-title="Calcio", TF1 France
 https://daddylive.dad/embed/stream-2.php
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Forge vs HFX Wanderers" tvg-name="21:30 Canadian Premier League : Forge vs HFX Wanderers - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/BHARATFORG.NS-ed04c2f6.png?t=1613407724" group-title="Calcio", Fox Soccer Plus
@@ -20,7 +20,7 @@ https://daddylive.dad/embed/stream-113.php
 #EXTINF:-1 tvg-id="Canadian Premier League - Cavalry vs York United" tvg-name="00:00 Canadian Premier League : Cavalry vs York United - 08/06/25" tvg-logo="https://logodix.com/logo/1957659.png" group-title="Calcio", Fox Sports 2 USA
 https://daddylive.dad/embed/stream-758.php
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Remo vs Operário PR" tvg-name="01:30 Brazil - Serie B : Remo vs Operário PR - 08/06/25" tvg-logo="https://www.footballkitarchive.com/static/logos/6P2LEJzGuAHrY1m/remo-1980-1991-logo.png" group-title="Calcio", ESPN BR
+#EXTINF:-1 tvg-id="Brazil - Serie B - Remo vs Operário PR" tvg-name="01:30 Brazil - Serie B : Remo vs Operário PR - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Remo_vs_Oper%C3%A1rio%20PR.png" group-title="Calcio", ESPN BR
 https://daddylive.dad/embed/stream-81.php
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Alcaraz C." tvg-name="15:00 WTA - ROLAND GARROS : Sinner J. vs Alcaraz C. - 08/06/25" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
@@ -233,7 +233,7 @@ https://daddylive.dad/embed/stream-150.php
 #EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Final - Roland-Garros Men | Singles | Final" tvg-name="15:00 Roland-Garros Men | Singles | Final - 08/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 https://daddylive.dad/embed/stream-232.php
 
-#EXTINF:-1 tvg-id="Major League Pickleball - Texas Ranchers vs St. Louis Shock" tvg-name="17:00 Major League Pickleball : Texas Ranchers vs St. Louis Shock - 08/06/25" tvg-logo="https://lonestartack.com/wp-content/uploads/2016/08/Ranchers_Complete-1536x1536.png" group-title="Tennis", MSG USA
+#EXTINF:-1 tvg-id="Major League Pickleball - Texas Ranchers vs St. Louis Shock" tvg-name="17:00 Major League Pickleball : Texas Ranchers vs St. Louis Shock - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Texas%20Ranchers_vs_St.%20Louis%20Shock.png" group-title="Tennis", MSG USA
 https://daddylive.dad/embed/stream-765.php
 
 #EXTINF:-1 tvg-id="Major League Pickleball - Carolina Hogs vs SoCal Hard Eights" tvg-name="18:45 Major League Pickleball : Carolina Hogs vs SoCal Hard Eights - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Carolina%20Hogs_vs_SoCal%20Hard%20Eights.png" group-title="Tennis", MSG USA
@@ -473,10 +473,10 @@ https://daddylive.dad/embed/stream-146.php
 #EXTINF:-1 tvg-id="20 - 55 First FEB (S24/25): Promotion Play-off Final" tvg-name="17:25 20:55 First FEB (S24/25): Promotion Play-off Final - 08/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Sports 2 Spain
 https://daddylive.dad/embed/stream-438.php
 
-#EXTINF:-1 tvg-id="Portugal LPB - Benfica Lisboa vs. FC Porto" tvg-name="17:30 Portugal LPB : Benfica Lisboa vs. FC Porto - 08/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sport-lisboa-e-benfica-logo-png-transparent.png" group-title="Basket", BTV 1 Portugal HD
+#EXTINF:-1 tvg-id="Portugal LPB - Benfica Lisboa vs. FC Porto" tvg-name="17:30 Portugal LPB : Benfica Lisboa vs. FC Porto - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/SLBEN.LS-16907b5c.png?t=1665998070" group-title="Basket", BTV 1 Portugal HD
 https://daddylive.dad/embed/stream-380.php
 
-#EXTINF:-1 tvg-id="Portugal LPB - Benfica Lisboa vs. FC Porto" tvg-name="17:30 Portugal LPB : Benfica Lisboa vs. FC Porto - 08/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sport-lisboa-e-benfica-logo-png-transparent.png" group-title="Basket", RTP 2 Portugal
+#EXTINF:-1 tvg-id="Portugal LPB - Benfica Lisboa vs. FC Porto" tvg-name="17:30 Portugal LPB : Benfica Lisboa vs. FC Porto - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Benfica%20Lisboa_vs_FC%20Porto.png" group-title="Basket", RTP 2 Portugal
 https://daddylive.dad/embed/stream-720.php
 
 #EXTINF:-1 tvg-id="National Basketball League - Maccabi Rishon Lezion vs Hapoel Eilat" tvg-name="17:35 National Basketball League : Maccabi Rishon Lezion vs Hapoel Eilat - 08/06/25" tvg-logo="https://seeklogo.com/images/H/hapoel-rishon-lezion-fc-logo-108BA8AEFA-seeklogo.com.png" group-title="Basket", Sport 5 Israel
@@ -725,22 +725,22 @@ https://daddylive.dad/embed/stream-26.php
 #EXTINF:-1 tvg-id="Nations League Women - China vs. Turkiye" tvg-name="13:30 Nations League Women : China vs. Turkiye - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/China_vs_Turkiye.png" group-title="Pallavolo", Max Sport 3 Bulgaria
 https://daddylive.dad/embed/stream-474.php
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749284079_greece-x-slovakia.png" group-title="Pallavolo", JOJ Sport Slovakia
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://seeklogo.com/images/H/hockey-slovakia-2019-logo-B7D2818A59-seeklogo.com.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://daddylive.dad/embed/stream-24.php
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749284079_greece-x-slovakia.png" group-title="Pallavolo", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://seeklogo.com/images/H/hockey-slovakia-2019-logo-B7D2818A59-seeklogo.com.png" group-title="Pallavolo", Arena Sport 2 Serbia
 https://daddylive.dad/embed/stream-430.php
 
 #EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://seeklogo.com/images/B/brazil-logo-EB6CDF0C32-seeklogo.com.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://daddylive.dad/embed/stream-50.php
 
-#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://seeklogo.com/images/B/brazil-logo-EB6CDF0C32-seeklogo.com.png" group-title="Pallavolo", Sportv2 Brazil
 https://daddylive.dad/embed/stream-79.php
 
 #EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://seeklogo.com/images/B/brazil-logo-EB6CDF0C32-seeklogo.com.png" group-title="Pallavolo", RTVS Sport Slovakia
 https://daddylive.dad/embed/stream-26.php
 
-#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://seeklogo.com/images/B/brazil-logo-EB6CDF0C32-seeklogo.com.png" group-title="Pallavolo", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brazil_vs_Italy.png" group-title="Pallavolo", Max Sport 1 Bulgaria
 https://daddylive.dad/embed/stream-472.php
 
 #EXTINF:-1 tvg-id="European Golden League Women - Romania vs. Greece" tvg-name="15:30 European Golden League Women : Romania vs. Greece - 08/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Romania_vs_Greece.png" group-title="Pallavolo", Arena Sport 1 Croatia
