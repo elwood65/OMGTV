@@ -1,313 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Fluminense vs Borussia Dortmund" tvg-name="18:00 FIFA Club World Cup : Fluminense vs Borussia Dortmund - 17/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750158087_fluminense-x-borussia-dortmund.jpeg" group-title="Calcio", SuperSport Premier League
-https://daddylive.dad/embed/stream-414.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - River Plate vs Urawa Reds" tvg-name="21:00 FIFA Club World Cup : River Plate vs Urawa Reds - 17/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750158043_river-plate-x-urawa-reds.jpeg" group-title="Calcio", SuperSport Premier League
-https://daddylive.dad/embed/stream-414.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Ulsan vs Mamelodi Sundowns" tvg-name="00:00 FIFA Club World Cup : Ulsan vs Mamelodi Sundowns - 17/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750157953_ulsan-x-mamelodi-sundowns.jpeg" group-title="Calcio", SuperSport Premier League
-https://daddylive.dad/embed/stream-414.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Monterrey vs Internazionale" tvg-name="03:00 FIFA Club World Cup : Monterrey vs Internazionale - 17/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750157957_monterrey-x-internazionale.jpeg" group-title="Calcio", SuperSport Premier League
-https://daddylive.dad/embed/stream-414.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - De Minaur A. vs Lehecka J." tvg-name="13:00 ATP - LONDON : De Minaur A. vs Lehecka J. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/De%20Minaur%20A._vs_Lehecka%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Nakashima B. vs Mpetshi Perricard G." tvg-name="13:00 ATP - LONDON : Nakashima B. vs Mpetshi Perricard G. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Nakashima%20B._vs_Mpetshi%20Perricard%20G..png" group-title="Tennis Atp - London", Tennis Stream 8
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Popyrin A. vs Vukic A." tvg-name="13:00 ATP - LONDON : Popyrin A. vs Vukic A. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Popyrin%20A._vs_Vukic%20A..png" group-title="Tennis Atp - London", Tennis Stream 9
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Brooksby J. vs Draper J." tvg-name="14:30 ATP - LONDON : Brooksby J. vs Draper J. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brooksby%20J._vs_Draper%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Opelka R. vs Ugo Carabelli C." tvg-name="14:30 ATP - LONDON : Opelka R. vs Ugo Carabelli C. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Opelka%20R._vs_Ugo%20Carabelli%20C..png" group-title="Tennis Atp - London", Tennis Stream 9
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Rinderknech A. vs Shelton B." tvg-name="14:30 ATP - LONDON : Rinderknech A. vs Shelton B. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rinderknech%20A._vs_Shelton%20B..png" group-title="Tennis Atp - London", Tennis Stream 8
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Davidovich Fokina A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Davidovich Fokina A. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Alcaraz%20C._vs_Davidovich%20Fokina%20A..png" group-title="Tennis Atp - London", Tennis Stream 7
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Thompson J. vs Munar J." tvg-name="16:00 ATP - LONDON : Thompson J. vs Munar J. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Thompson%20J._vs_Munar%20J..png" group-title="Tennis Atp - London", Tennis Stream 8
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Diallo G. vs Harris B." tvg-name="17:30 ATP - LONDON : Diallo G. vs Harris B. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Diallo%20G._vs_Harris%20B..png" group-title="Tennis Atp - London", Tennis Stream 8
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - LONDON - Moutet C. vs Fritz T." tvg-name="17:30 ATP - LONDON : Moutet C. vs Fritz T. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Moutet%20C._vs_Fritz%20T..png" group-title="Tennis Atp - London", Tennis Stream 7
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - De Jong J. vs Machac T." tvg-name="11:30 ATP - HALLE : De Jong J. vs Machac T. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/De%20Jong%20J._vs_Machac%20T..png" group-title="Tennis Atp - Halle", Tennis Stream 11
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Martinez P. vs Etcheverry T. M." tvg-name="11:30 ATP - HALLE : Martinez P. vs Etcheverry T. M. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Martinez%20P._vs_Etcheverry%20T.%20M..png" group-title="Tennis Atp - Halle", Tennis Stream 12
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Rublev A. vs Ofner S." tvg-name="11:30 ATP - HALLE : Rublev A. vs Ofner S. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rublev%20A._vs_Ofner%20S..png" group-title="Tennis Atp - Halle", Tennis Stream 10
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Cerundolo F. vs Michelsen A." tvg-name="13:00 ATP - HALLE : Cerundolo F. vs Michelsen A. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Cerundolo%20F._vs_Michelsen%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 12
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Fonseca J. vs Cobolli F." tvg-name="13:00 ATP - HALLE : Fonseca J. vs Cobolli F. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Fonseca%20J._vs_Cobolli%20F..png" group-title="Tennis Atp - Halle", Tennis Stream 10
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Humbert U. vs Shapovalov D." tvg-name="13:00 ATP - HALLE : Humbert U. vs Shapovalov D. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Humbert%20U._vs_Shapovalov%20D..png" group-title="Tennis Atp - Halle", Tennis Stream 11
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime F. vs Djere L." tvg-name="14:30 ATP - HALLE : Auger-Aliassime F. vs Djere L. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Auger-Aliassime%20F._vs_Djere%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Sinner J. vs Hanfmann Y." tvg-name="15:30 ATP - HALLE : Sinner J. vs Hanfmann Y. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sinner%20J._vs_Hanfmann%20Y..png" group-title="Tennis Atp - Halle", Tennis Stream 10
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HALLE - Sonego L. vs Struff J-L." tvg-name="17:00 ATP - HALLE : Sonego L. vs Struff J-L. - 17/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/18/sonego_l.png?itok=jTRqmk3q" group-title="Tennis Atp - Halle", Tennis Stream 10
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - BERLIN - Osaka N. vs Samsonova L." tvg-name="11:30 WTA - BERLIN : Osaka N. vs Samsonova L. - 17/06/25" tvg-logo="https://logodix.com/logo/1774327.png" group-title="Tennis Wta - Berlin", Tennis Stream 1
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - BERLIN - Wang Xin. vs Kasatkina D." tvg-name="11:30 WTA - BERLIN : Wang Xin. vs Kasatkina D. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Wang%20Xin._vs_Kasatkina%20D..png" group-title="Tennis Wta - Berlin", Tennis Stream 2
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - BERLIN - Vondrousova M. vs Keys M." tvg-name="13:00 WTA - BERLIN : Vondrousova M. vs Keys M. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vondrousova%20M._vs_Keys%20M..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - BERLIN - Shnaider D. vs Vekic D." tvg-name="16:00 WTA - BERLIN : Shnaider D. vs Vekic D. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shnaider%20D._vs_Vekic%20D..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - BERLIN - Anisimova A. vs Andreescu B." tvg-name="16:00 WTA - BERLIN : Anisimova A. vs Andreescu B. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Anisimova%20A._vs_Andreescu%20B..png" group-title="Tennis Wta - Berlin", Tennis Stream 2
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - BERLIN - Rybakina E. vs Zheng Q." tvg-name="17:30 WTA - BERLIN : Rybakina E. vs Zheng Q. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rybakina%20E._vs_Zheng%20Q..png" group-title="Tennis Wta - Berlin", Tennis Stream 2
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Jones F. vs Dart H." tvg-name="12:00 WTA - NOTTINGHAM : Jones F. vs Dart H. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Jones%20F._vs_Dart%20H..png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Linette M. vs Eala A." tvg-name="12:00 WTA - NOTTINGHAM : Linette M. vs Eala A. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Linette%20M._vs_Eala%20A..png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Kartal S. vs Jeanjean L." tvg-name="12:30 WTA - NOTTINGHAM : Kartal S. vs Jeanjean L. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kartal%20S._vs_Jeanjean%20L..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Siegemund L. vs Sramkova R." tvg-name="13:30 WTA - NOTTINGHAM : Siegemund L. vs Sramkova R. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Siegemund%20L._vs_Sramkova%20R..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Xu M. vs Volynets K." tvg-name="13:30 WTA - NOTTINGHAM : Xu M. vs Volynets K. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Xu%20M._vs_Volynets%20K..png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Sun L. vs Boulter K." tvg-name="14:00 WTA - NOTTINGHAM : Sun L. vs Boulter K. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sun%20L._vs_Boulter%20K..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Starodubtseva Y. vs Bucsa C." tvg-name="15:00 WTA - NOTTINGHAM : Starodubtseva Y. vs Bucsa C. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Starodubtseva%20Y._vs_Bucsa%20C..png" group-title="Tennis Wta - Nottingham", Tennis Stream 6
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Haddad Maia B. vs Kessler M." tvg-name="17:00 WTA - NOTTINGHAM : Haddad Maia B. vs Kessler M. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Haddad%20Maia%20B._vs_Kessler%20M..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
-https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC One UK
-https://daddylive.dad/embed/stream-356.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://daddylive.dad/embed/stream-40.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://daddylive.dad/embed/stream-113.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://daddylive.dad/embed/stream-46.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://daddylive.dad/embed/stream-701.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
-https://daddylive.dad/embed/stream-556.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
-https://daddylive.dad/embed/stream-627.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://daddylive.dad/embed/stream-472.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://daddylive.dad/embed/stream-396.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
-https://daddylive.dad/embed/stream-383.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://daddylive.dad/embed/stream-474.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
-https://daddylive.dad/embed/stream-118.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://daddylive.dad/embed/stream-713.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-https://daddylive.dad/embed/stream-714.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
-https://daddylive.dad/embed/stream-436.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
-https://daddylive.dad/embed/stream-521.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
-https://daddylive.dad/embed/stream-429.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
-https://daddylive.dad/embed/stream-430.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 3 Serbia
-https://daddylive.dad/embed/stream-431.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://daddylive.dad/embed/stream-915.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
-https://daddylive.dad/embed/stream-916.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
-https://daddylive.dad/embed/stream-97.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://daddylive.dad/embed/stream-102.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://daddylive.dad/embed/stream-453.php
-
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
-https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="LKL - Zalgiris Kaunas vs Lietuvos Rytas" tvg-name="17:50 LKL : Zalgiris Kaunas vs Lietuvos Rytas - 17/06/25" tvg-logo="https://images.seeklogo.com/logo-png/15/3/zalgiris-logo-png_seeklogo-155670.png?v=1956754699572318488" group-title="Basket", Arena 2 Premium Serbia
-https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="LKL - Zalgiris Kaunas vs Lietuvos Rytas" tvg-name="17:50 LKL : Zalgiris Kaunas vs Lietuvos Rytas - 17/06/25" tvg-logo="https://images.seeklogo.com/logo-png/15/3/zalgiris-logo-png_seeklogo-155670.png?v=1956754699572318488" group-title="Basket", Sport Klub 3 Croatia
-https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="KLS - FMP Soccerbet vs Partizan Mozzart bet G2" tvg-name="19:00 KLS : FMP Soccerbet vs Partizan Mozzart bet G2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/FMP%20Soccerbet_vs_Partizan%20Mozzart%20bet%20G2.png" group-title="Basket", Arena 1 Premium Serbia
-https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="20:10 LNB : Paris vs Monaco - 17/06/25" tvg-logo="https://clipground.com/images/paris-logo-png.png" group-title="Basket", DAZN 3 France
-https://daddylive.dad/embed/stream-10.php
-
-#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="20:10 LNB : Paris vs Monaco - 17/06/25" tvg-logo="https://clipground.com/images/paris-logo-png.png" group-title="Basket", Arena 3 Premium Serbia
-https://daddylive.dad/embed/stream-139.php
-
-#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="20:10 LNB : Paris vs Monaco - 17/06/25" tvg-logo="https://clipground.com/images/paris-logo-png.png" group-title="Basket", Sport Klub 3 Croatia
-https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="20:10 LNB : Paris vs Monaco - 17/06/25" tvg-logo="https://clipground.com/images/paris-logo-png.png" group-title="Basket", 5 SPORT Plus Israel
-https://daddylive.dad/embed/stream-145.php
-
-#EXTINF:-1 tvg-id="Turkey Super Lig - Fenerbahce vs Besiktas" tvg-name="20:30 Turkey Super Lig : Fenerbahce vs Besiktas - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Fenerbahce_vs_Besiktas.png" group-title="Basket", Bein Sports 5 Turkey
-https://daddylive.dad/embed/stream-11.php
-
-#EXTINF:-1 tvg-id="Turkey Super Lig - Fenerbahce vs Besiktas" tvg-name="20:30 Turkey Super Lig : Fenerbahce vs Besiktas - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Fenerbahce_vs_Besiktas.png" group-title="Basket", Sport 1 Israel
-https://daddylive.dad/embed/stream-140.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="20:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brescia_vs_Virtus%20Bologna.png" group-title="Basket", Eurosport 2 IT
-https://daddylive.dad/embed/stream-879.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="20:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brescia_vs_Virtus%20Bologna.png" group-title="Basket", Arena Sport 1 Croatia
-https://daddylive.dad/embed/stream-432.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="20:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brescia_vs_Virtus%20Bologna.png" group-title="Basket", Polsat Sport 3 Poland
-https://daddylive.dad/embed/stream-129.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="20:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brescia_vs_Virtus%20Bologna.png" group-title="Basket", Cosmote Sport 7 Greece
-https://daddylive.dad/embed/stream-628.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="20:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brescia_vs_Virtus%20Bologna.png" group-title="Basket", Arena 2 Premium Serbia
-https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="20:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brescia_vs_Virtus%20Bologna.png" group-title="Basket", Sport 2 Israel
-https://daddylive.dad/embed/stream-141.php
-
-#EXTINF:-1 tvg-id="ACB - UUnicaja Málaga vs Real Madrid" tvg-name="21:15 ACB : UUnicaja Málaga vs Real Madrid - 17/06/25" tvg-logo="https://seeklogo.com/images/U/unicaja-obra-social-logo-B23F14E15E-seeklogo.com.png" group-title="Basket", Arena 1 Premium Serbia
-https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="ACB - UUnicaja Málaga vs Real Madrid" tvg-name="21:15 ACB : UUnicaja Málaga vs Real Madrid - 17/06/25" tvg-logo="https://seeklogo.com/images/U/unicaja-obra-social-logo-B23F14E15E-seeklogo.com.png" group-title="Basket", Sportdigital+ DE
-https://daddylive.dad/embed/stream-640.php
-
-#EXTINF:-1 tvg-id="ACB - UUnicaja Málaga vs Real Madrid" tvg-name="21:15 ACB : UUnicaja Málaga vs Real Madrid - 17/06/25" tvg-logo="https://seeklogo.com/images/U/unicaja-obra-social-logo-B23F14E15E-seeklogo.com.png" group-title="Basket", DAZN Eleven 2 Portugal
-https://daddylive.dad/embed/stream-456.php
-
-#EXTINF:-1 tvg-id="ACB - UUnicaja Málaga vs Real Madrid" tvg-name="21:15 ACB : UUnicaja Málaga vs Real Madrid - 17/06/25" tvg-logo="https://seeklogo.com/images/U/unicaja-obra-social-logo-B23F14E15E-seeklogo.com.png" group-title="Basket", Cosmote Sport 5 Greece
-https://daddylive.dad/embed/stream-626.php
-
-#EXTINF:-1 tvg-id="ACB - UUnicaja Málaga vs Real Madrid" tvg-name="21:15 ACB : UUnicaja Málaga vs Real Madrid - 17/06/25" tvg-logo="https://seeklogo.com/images/U/unicaja-obra-social-logo-B23F14E15E-seeklogo.com.png" group-title="Basket", Sport Klub 1 Croatia
-https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Connecticut Sun W" tvg-name="01:00 WNBA : Indiana Fever W vs Connecticut Sun W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Connecticut%20Sun%20W.png" group-title="Basket", NBCS Boston USA
-https://daddylive.dad/embed/stream-754.php
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Connecticut Sun W" tvg-name="01:00 WNBA : Indiana Fever W vs Connecticut Sun W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Connecticut%20Sun%20W.png" group-title="Basket", NBA TV USA
-https://daddylive.dad/embed/stream-404.php
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Connecticut Sun W" tvg-name="01:00 WNBA : Indiana Fever W vs Connecticut Sun W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Connecticut%20Sun%20W.png" group-title="Basket", Sportsnet 360 CA
-https://daddylive.dad/embed/stream-409.php
-
-#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs New York Liberty W" tvg-name="01:00 WNBA : Atlanta Dream W vs New York Liberty W - 17/06/25" tvg-logo="https://content.sportslogos.net/logos/16/2614/full/9500_atlanta_dream-alternate-2020.png" group-title="Basket", MY9TV USA
-https://daddylive.dad/embed/stream-654.php
-
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Dallas Wings W" tvg-name="02:00 WNBA : Golden State Valkyries W vs Dallas Wings W - 17/06/25" tvg-logo="https://images.seeklogo.com/logo-png/53/2/golden-state-valkyries-logo-png_seeklogo-534305.png" group-title="Basket", WNBA League Pass
-https://daddylive.dad/embed/stream-21.php
-
-#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Las Vegas Aces W vs Minnesota Lynx W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Las%20Vegas%20Aces%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket", WNBA League Pass
-https://daddylive.dad/embed/stream-22.php
-
-#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Las Vegas Aces W vs Minnesota Lynx W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Las%20Vegas%20Aces%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket", FanDuel Sports Network North
-https://daddylive.dad/embed/stream-898.php
-
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Chicago Sky W" tvg-name="02:00 WNBA : Washington Mystics W vs Chicago Sky W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Washington%20Mystics%20W_vs_Chicago%20Sky%20W.png" group-title="Basket", Monumental Sports Network
-https://daddylive.dad/embed/stream-778.php
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Seattle Storm W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Seattle Storm W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Los%20Angeles%20Sparks%20W_vs_Seattle%20Storm%20W.png" group-title="Basket", NBA TV USA
-https://daddylive.dad/embed/stream-404.php
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Seattle Storm W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Seattle Storm W - 17/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Los%20Angeles%20Sparks%20W_vs_Seattle%20Storm%20W.png" group-title="Basket", Spectrum SportsNet USA
-https://daddylive.dad/embed/stream-982.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 1 UK
-https://daddylive.dad/embed/stream-31.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Poland
-https://daddylive.dad/embed/stream-57.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Spain
-https://daddylive.dad/embed/stream-524.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-https://daddylive.dad/embed/stream-772.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 1 SE
-https://daddylive.dad/embed/stream-231.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Italy
-https://daddylive.dad/embed/stream-878.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-https://daddylive.dad/embed/stream-772.php
-
-#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)" tvg-name="14:45 Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Greece
-https://daddylive.dad/embed/stream-41.php
-
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Wydad Casablanca" tvg-name="18:00 FIFA Club World Cup : Manchester City vs Wydad Casablanca - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Manchester%20City_vs_Wydad%20Casablanca.png" group-title="Calcio", SuperSport Premier League HD
 https://daddylive.dad/embed/stream-414.php
 
@@ -347,7 +38,7 @@ https://daddylive.dad/embed/stream-576.php
 #EXTINF:-1 tvg-id="ATP - HALLE - Krawietz K./Puetz T. vs Goransson A./Verbeek S." tvg-name="14:30 ATP - HALLE : Krawietz K./Puetz T. vs Goransson A./Verbeek S. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Verbeek%20S..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Michelsen A. vs Tsitsipas S." tvg-name="16:00 ATP - HALLE : Michelsen A. vs Tsitsipas S. - 18/06/25" tvg-logo="https://static.wixstatic.com/media/f6292d_5b3cc93a9c944af48aa72c3d496c98b8~mv2.png/v1/fill/w_258,h_268,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Michelsen-Logo-gruen_edited_edited.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Michelsen A. vs Tsitsipas S." tvg-name="16:00 ATP - HALLE : Michelsen A. vs Tsitsipas S. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Michelsen%20A._vs_Tsitsipas%20S..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Lammons N./Withrow J. vs Bolelli S./Vavassori A." tvg-name="16:00 ATP - HALLE : Lammons N./Withrow J. vs Bolelli S./Vavassori A. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vavassori%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -359,7 +50,7 @@ https://daddylive.dad/embed/stream-576.php
 #EXTINF:-1 tvg-id="WTA - BERLIN - Paolini J. vs Jabeur O." tvg-name="13:00 WTA - BERLIN : Paolini J. vs Jabeur O. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J._vs_Jabeur%20O..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="WTA - BERLIN - Samsonova L. vs Pegula J." tvg-name="16:00 WTA - BERLIN : Samsonova L. vs Pegula J. - 18/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d8c32970ed4467c0bbd212c/1574632970832-JQOH10BBFWWDWM4243PX/Samsonova-Consulting-Combination-Mark-Gradient-Gold-Large-2000px-header.png" group-title="Tennis Wta - Berlin", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - BERLIN - Samsonova L. vs Pegula J." tvg-name="16:00 WTA - BERLIN : Samsonova L. vs Pegula J. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Samsonova%20L._vs_Pegula%20J..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
 https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-id="WTA - BERLIN - Sabalenka A. vs Masarova R." tvg-name="17:30 WTA - BERLIN : Sabalenka A. vs Masarova R. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sabalenka%20A._vs_Masarova%20R..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
@@ -368,7 +59,7 @@ https://daddylive.dad/embed/stream-576.php
 #EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Ruzic A. vs Yastremska D." tvg-name="12:00 WTA - NOTTINGHAM : Ruzic A. vs Yastremska D. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Ruzic%20A._vs_Yastremska%20D..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
 https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Putintseva Y. vs Sramkova R." tvg-name="13:30 WTA - NOTTINGHAM : Putintseva Y. vs Sramkova R. - 18/06/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2018/03/Yulia-Putintseva.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Putintseva Y. vs Sramkova R." tvg-name="13:30 WTA - NOTTINGHAM : Putintseva Y. vs Sramkova R. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Putintseva%20Y._vs_Sramkova%20R..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
 https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Jones F. vs Noskova L." tvg-name="15:30 WTA - NOTTINGHAM : Jones F. vs Noskova L. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Jones%20F._vs_Noskova%20L..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
@@ -464,7 +155,7 @@ https://daddylive.dad/embed/stream-453.php
 #EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 3" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 3 - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
 https://daddylive.dad/embed/stream-97.php
 
-#EXTINF:-1 tvg-id="NBL - Nelson Giants vs Taranaki Mountainairs" tvg-name="08:00 NBL : Nelson Giants vs Taranaki Mountainairs - 18/06/25" tvg-logo="https://static.wixstatic.com/media/b9395d_379abd47c20a4c60bc69b621baba4755~mv2.png/v1/fill/w_314,h_313,q_75/b9395d_379abd47c20a4c60bc69b621baba4755~mv2.png" group-title="Basket", Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="NBL - Nelson Giants vs Taranaki Mountainairs" tvg-name="08:00 NBL : Nelson Giants vs Taranaki Mountainairs - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Nelson%20Giants_vs_Taranaki%20Mountainairs.png" group-title="Basket", Sky Sport 2 NZ
 https://daddylive.dad/embed/stream-58.php
 
 #EXTINF:-1 tvg-id="Eurobasket Women - Turkey W vs France W" tvg-name="16:30 Eurobasket Women : Turkey W vs France W - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Turkey%20W_vs_France%20W.png" group-title="Basket", TMC France
@@ -563,7 +254,7 @@ https://daddylive.dad/embed/stream-82.php
 #EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Phoenix Mercury W" tvg-name="01:00 WNBA : Connecticut Sun W vs Phoenix Mercury W - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Connecticut%20Sun%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", NBCS Boston USA
 https://daddylive.dad/embed/stream-754.php
 
-#EXTINF:-1 tvg-id="Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - Basketball LECB Scarborough Shooting Stars vs Montreal Alliance" tvg-name="01:30 Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - 18/06/25" tvg-logo="https://irp.cdn-website.com/be96ae86/dms3rep/multi/cebl-year5-we2.png" group-title="Basket", RDS CA
+#EXTINF:-1 tvg-id="Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - Basketball LECB Scarborough Shooting Stars vs Montreal Alliance" tvg-name="01:30 Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - 18/06/25" tvg-logo="https://lirp.cdn-website.com/be96ae86/dms3rep/multi/opt/android-chrome-512x512-1920w.png" group-title="Basket", RDS CA
 https://daddylive.dad/embed/stream-839.php
 
 #EXTINF:-1 tvg-id="Route d'Occitanie | Stage 1 Men | Saint-Affrique – Roquefort (ITT, 10.5km) - Route d'Occitanie | Stage 1 Men | Saint-Affrique – Roquefort (ITT, 10.5km)" tvg-name="14:00 Route d'Occitanie | Stage 1 Men | Saint-Affrique – Roquefort (ITT, 10.5km) - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
@@ -617,7 +308,7 @@ https://daddylive.dad/embed/stream-139.php
 #EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Japan" tvg-name="11:00 Nations League Women : Thailand vs. Japan - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Thailand_vs_Japan.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://daddylive.dad/embed/stream-101.php
 
-#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Canada" tvg-name="11:30 Nations League Women : Republic of Korea vs. Canada - 18/06/25" tvg-logo="https://i.pinimg.com/originals/2c/41/5d/2c415d57460cab541d2a06f10b809501.png" group-title="Pallavolo", Polsat Sport Premium 3 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Canada" tvg-name="11:30 Nations League Women : Republic of Korea vs. Canada - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Republic%20of%20Korea_vs_Canada.png" group-title="Pallavolo", Polsat Sport Premium 3 Poland
 https://daddylive.dad/embed/stream-1.php
 
 #EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Canada" tvg-name="11:30 Nations League Women : Republic of Korea vs. Canada - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Republic%20of%20Korea_vs_Canada.png" group-title="Pallavolo", Sport Klub 4 Croatia
@@ -632,7 +323,7 @@ https://daddylive.dad/embed/stream-134.php
 #EXTINF:-1 tvg-id="Nations League Women - France vs. Germany" tvg-name="13:00 Nations League Women : France vs. Germany - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/France_vs_Germany.png" group-title="Pallavolo", Sport Klub 3 Croatia
 https://daddylive.dad/embed/stream-103.php
 
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs. China" tvg-name="14:30 Nations League Women : Czech Republic vs. China - 18/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", CT Sport Czech
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs. China" tvg-name="14:30 Nations League Women : Czech Republic vs. China - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Czech%20Republic_vs_China.png" group-title="Pallavolo", CT Sport Czech
 https://daddylive.dad/embed/stream-9.php
 
 #EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs. China" tvg-name="14:30 Nations League Women : Czech Republic vs. China - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Czech%20Republic_vs_China.png" group-title="Pallavolo", Polsat Sport Premium 4 Poland
@@ -653,7 +344,7 @@ https://daddylive.dad/embed/stream-10.php
 #EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://logodix.com/logo/1691555.png" group-title="Pallavolo", Sport Klub 4 Croatia
 https://daddylive.dad/embed/stream-104.php
 
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs. Poland" tvg-name="16:30 Nations League Women : Netherlands vs. Poland - 18/06/25" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/royal_netherlands_football_association-logo.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs. Poland" tvg-name="16:30 Nations League Women : Netherlands vs. Poland - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Netherlands_vs_Poland.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://daddylive.dad/embed/stream-47.php
 
 #EXTINF:-1 tvg-id="Nations League Women - Netherlands vs. Poland" tvg-name="16:30 Nations League Women : Netherlands vs. Poland - 18/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Netherlands_vs_Poland.png" group-title="Pallavolo", Arena Premium 1 Serbia
